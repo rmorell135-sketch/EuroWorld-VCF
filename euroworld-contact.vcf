@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;EuroWorld Auto Parts;;;
+FN:EuroWorld Auto Parts
+ORG:EuroWorld Auto Parts
+TITLE:Piezas de Auto
+TEL;TYPE=WORK,VOICE:+1-787-925-7190
+TEL;TYPE=CELL,VOICE,WhatsApp:+1-939-339-6524
+EMAIL;TYPE=INTERNET,WORK:euroworldautoparts@gmail.com
+ADR;TYPE=WORK:;;Carretera 2 Km. 84.4;Hatillo;PR;00659;Puerto Rico
+URL:https://euroworldonline.carrd.co/
+NOTE:Auto parts • Hatillo, Puerto Rico
+END:VCARD
